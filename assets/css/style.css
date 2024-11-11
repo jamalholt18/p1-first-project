@@ -2,7 +2,26 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Macondo&family=Oswald:wght@200..700&display=swap');
 
 /* CSS Variables */
+:root {
+    --primary-font: "Inter", sans-serif;
+    --primary-color: #416a8e;
+    /* blue */
+}
 
+/* Global Styles */
 body {
     font-family: "inter", sans-serif;
+    color: var(--primary-color)
+}
+
+a {
+    color: var(--primary-color)
+    /* Inherit the color from the parent element */
+    text-decoration: none;
+    /* Remove underline */
+}
+
+a:hover {
+    color: var(--primary-color)
+    /* Change to your desired hover color */
 }
