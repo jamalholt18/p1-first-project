@@ -19,3 +19,21 @@ h1 {
     color: var(--primary-color)
 }
 
+@media (max-width: 320px) {
+    .card-body {
+        display: none;
+        /* Hide card body initially on small screens */
+    }
+
+    .accordion-button {
+        display: block;
+        /* Display accordion button */
+    }
+}
+
+@media (min-width: 321px) {
+    .accordion-button {
+        display: none;
+        /* Hide accordion button on larger screens */
+    }
+}
