@@ -6,7 +6,7 @@
     --primary-font: "Inter", sans-serif;
     --primary-color: #2a2f34;
     --secondary-color: #416a8e;
-    
+
 }
 
 /* Global Styles */
@@ -18,3 +18,4 @@ body {
 h1 {
     color: var(--primary-color)
 }
+
