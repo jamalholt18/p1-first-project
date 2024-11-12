@@ -4,24 +4,17 @@
 /* CSS Variables */
 :root {
     --primary-font: "Inter", sans-serif;
-    --primary-color: #416a8e;
-    /* blue */
+    --primary-color: #2a2f34;
+    --secondary-color: #416a8e;
+    
 }
 
 /* Global Styles */
 body {
     font-family: "inter", sans-serif;
-    color: var(--primary-color)
+    color: var(--Secondary-color)
 }
 
-a {
+h1 {
     color: var(--primary-color)
-    /* Inherit the color from the parent element */
-    text-decoration: none;
-    /* Remove underline */
-}
-
-a:hover {
-    color: var(--primary-color)
-    /* Change to your desired hover color */
 }
