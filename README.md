@@ -3,6 +3,9 @@
 ## Description
 Welcome to the Mental Health Awareness Project! This project aims to provide information, resources, and support to help individuals on their mental health journey. Our website includes sections on positive affirmations, external support resources, and a sign-up form for users to stay connected.
 
+## Live site link
+https://jamalholt18.github.io/p1-first-project/
+
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -35,6 +38,15 @@ Below are the wireframe designs for the project.
 
 ![Wireframe Desktop](assets/images/desktopwireframe.png)
 ![Wireframe 2](assets/images/mobilewireframe.png)
+
+## User Stories
+
+-As a user new to mental health resources, I want to see a hero section with a positive and encouraging message so that I feel welcome and motivated to explore the site.
+
+-As a visitor seeking information on common mental health issues, I want to find easy-to-read information cards so that I can quickly understand and recognize symptoms and tips.
+
+-As a user looking for additional support, I want to find a grid layout of resource links with standout buttons so that I can easily access external mental health resources.
+
 
 ## Contributing
 We welcome contributions to enhance the project! To contribute:
