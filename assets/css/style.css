@@ -18,7 +18,7 @@ body {
     background-color: var(--tertiary-color); 
 }
 
-h1 {
+h1, h3 {
     font-family: var(--primary-font);
     color: var(--secondary-color);
 }
@@ -99,6 +99,11 @@ p {
     margin-top: 1rem;
 }
 
+footer {
+    font-family: "inter", sans-serif;
+    color: var(--Secondary-color);
+    background-color: var(--tertiary-color); 
+}
 
 @media (max-width: 576px) {
     .overlay-text {
@@ -115,3 +120,5 @@ p {
         /* Hide accordion button on larger screens */
     }
 }
+
+/* nav bar media queries */
