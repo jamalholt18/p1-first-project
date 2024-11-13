@@ -31,6 +31,45 @@ h1 {
     }
 }
 
+/* jumbotron css */
+.jumbotron {
+    position: relative;
+    background-color: #f8f9fa;
+    padding: 0;
+    /* Remove extra padding to make the image fit better */
+}
+
+.img-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    position: relative;
+    width: 100%;
+    height: 60vh; /* adjust hero image height here */
+    background: url('/assets/images/seaview.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.overlay-text {
+    color: black;
+    text-align: center;
+    background-color: rgba(255, 255, 255, 0.7);
+    padding: 1rem;
+    border-radius: 10px;
+    width: 80%;
+    margin-bottom: 1rem;
+}
+
+@media (max-width: 576px) {
+    .overlay-text {
+        font-size: 0.7rem;
+        /* font size for smaller screens */
+        padding: 0.5rem;
+    }
+}
+
+
 @media (min-width: 321px) {
     .accordion-button {
         display: none;
