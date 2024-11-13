@@ -15,10 +15,13 @@
 body {
     font-family: "inter", sans-serif;
     color: var(--Secondary-color);
-    background-color: var(--tertiary-color); 
+    background-color: var(--tertiary-color);
 }
 
-h1, h3, h2, h5 {
+h1,
+h3,
+h2,
+h5 {
     font-family: var(--primary-font);
     color: var(--secondary-color);
 }
@@ -99,10 +102,36 @@ p {
     margin-top: 1rem;
 }
 
+.affirmation-section {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 15px;
+    text-align: center;
+}
+
+.quote {
+    font-style: italic;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    color: #007bff;
+}
+
+.author {
+    font-weight: bold;
+    color: #6c757d;
+}
+
+.signup-form {
+    background-color: #f8f9fa;
+    padding: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
 footer {
     font-family: "inter", sans-serif;
     color: var(--Secondary-color);
-    background-color: var(--tertiary-color); 
+    background-color: var(--tertiary-color);
 }
 
 @media (max-width: 576px) {
