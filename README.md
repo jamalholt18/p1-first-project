@@ -1,66 +1,67 @@
-# Project Title
+# Mental Health Awareness Project
 
-A brief description of what this project does and who it's for.
+## Description
+Welcome to the Mental Health Awareness Project! This project aims to provide information, resources, and support to help individuals on their mental health journey. Our website includes sections on positive affirmations, external support resources, and a sign-up form for users to stay connected.
 
-
-# User Stories
-
-User Story 1:
-As a user new to mental health resources, I want to see a hero section with a positive and encouraging message so that I feel welcome and motivated to explore the site.
-Acceptance Criteria:
-The hero section uses a Bootstrap Jumbotron.
-Includes a positive, encouraging message about mental health.
-Utilizes a calming color scheme and a simple background image.
-User Story 2:
-As a visitor seeking information on common mental health issues, I want to find easy-to-read information cards so that I can quickly understand and recognize symptoms and tips.
-Acceptance Criteria:
-Use Bootstrap card components to present various mental health topics.
-Include clear headings and brief, beginner-friendly explanations.
-Ensure the layout is visually appealing and well-organized.
-User Story 3:
-As a user looking for additional support, I want to find a grid layout of resource links with standout buttons so that I can easily access external mental health resources.
-Acceptance Criteria:
-Create a grid layout for external resource links.
-Style the links with Bootstrap buttons to make them prominent.
-Ensure the grid is clean, organized, and easy to navigate.
-
-
-
-
-
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Wireframe Designs](#wireframe-designs)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact Information](#contact-information)
 
 ## Installation
+To get started with the project, follow these steps:
 
-Instructions on how to install and set up the project.
-
-```bash
-# Clone the repository
-git clone https://github.com/yourusername/your-repo.git
-
-# Navigate to the project directory
-cd your-repo
-
-# Install dependencies
-npm install
-```
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/yourusername/mental-health-awareness.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd mental-health-awareness
+    ```
+3. Open the project in your preferred code editor.
 
 ## Usage
+1. **Home**: Welcome visitors to the site and introduce the purpose of the project.
+2. **Positive Affirmations**: Display uplifting quotes and messages to encourage users.
+3. **Support Resources**: Provide links to external mental health resources in a clean, organized grid layout.
+4. **Sign-Up Form**: Collect user information to stay connected and provide updates.
 
-Instructions on how to use the project.
+## Wireframe Designs
+Below are the wireframe designs for the project.
 
-```bash
-# Run the project
-npm start
-```
+![Wireframe Desktop](assets/images/desktop wireframe.png)
+![Wireframe 2](assets/images/mobilewireframe.png)
 
 ## Contributing
+We welcome contributions to enhance the project! To contribute:
 
-Guidelines for contributing to the project.
+1. Fork the repository.
+2. Create a new branch:
+    ```bash
+    git checkout -b feature/your-feature-name
+    ```
+3. Commit your changes:
+    ```bash
+    git commit -m 'Add some feature'
+    ```
+4. Push to the branch:
+    ```bash
+    git push origin feature/your-feature-name
+    ```
+5. Open a pull request.
 
 ## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
-Information about the project's license.
+## Contact Information
+For any questions or feedback, please contact us at:
+- Email: support@mentalhealthawareness.com
+- Twitter: [@MentalHealthAwareness](https://twitter.com/MentalHealthAwareness)
 
-## Contact
+---
 
-Contact information for the project maintainers.
+_Project by Jamal Holt_
