@@ -33,7 +33,7 @@ To get started with the project, follow these steps:
 ## Wireframe Designs
 Below are the wireframe designs for the project.
 
-![Wireframe Desktop](assets/images/desktop wireframe.png)
+![Wireframe Desktop](assets/images/desktopwireframe.png)
 ![Wireframe 2](assets/images/mobilewireframe.png)
 
 ## Contributing
